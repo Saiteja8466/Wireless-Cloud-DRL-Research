@@ -1,0 +1,11 @@
+SNR (dB),Switch,Mean_Delay,Detection_Rate
+0,Exponential to Uniform,12.0,1.0
+0,Uniform to Exponential,17.2,1.0
+5,Exponential to Uniform,7.4,1.0
+5,Uniform to Exponential,24.8,1.0
+10,Exponential to Uniform,4.6,1.0
+10,Uniform to Exponential,33.4,1.0
+15,Exponential to Uniform,2.8,1.0
+15,Uniform to Exponential,44.6,1.0
+20,Exponential to Uniform,2.2,1.0
+20,Uniform to Exponential,53.4,1.0

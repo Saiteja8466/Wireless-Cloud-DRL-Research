@@ -1,0 +1,1001 @@
+Seed,SNR (dB),Scenario,Detector,Event,Detection Frame,Detection Delay,False Switches
+1001,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1001,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1002,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1002,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1003,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1003,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1004,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1004,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1005,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1005,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1006,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1006,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1007,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1007,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1008,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1008,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1009,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1009,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1010,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1010,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1011,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1011,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1012,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1012,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1013,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1013,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1014,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1014,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1015,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1015,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1016,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1016,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1017,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1017,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1018,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1018,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1019,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1019,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1020,0,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1020,0,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1001,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1001,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1002,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1002,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1003,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1003,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1004,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1004,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1005,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1005,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1006,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1006,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1007,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1007,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1008,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1008,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1009,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1009,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1010,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1010,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1011,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1011,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1012,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1012,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1013,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1013,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1014,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1014,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1015,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1015,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1016,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1016,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1017,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1017,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1018,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1018,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1019,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1019,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1020,5,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1020,5,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1001,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1001,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1002,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1002,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1003,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1003,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1004,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1004,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1005,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1005,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1006,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1006,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1007,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1007,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1008,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1008,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1009,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1009,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1010,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1010,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1011,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1011,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1012,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1012,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1013,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1013,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1014,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1014,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1015,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1015,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1016,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1016,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1017,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1017,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1018,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1018,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1019,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1019,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1020,10,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1020,10,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1001,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1001,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1002,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1002,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1003,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1003,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1004,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1004,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1005,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1005,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1006,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1006,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1007,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1007,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1008,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1008,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1009,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1009,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1010,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1010,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1011,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1011,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1012,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1012,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1013,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1013,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1014,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1014,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1015,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1015,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1016,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1016,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1017,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1017,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1018,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1018,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1019,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1019,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1020,15,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1020,15,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1001,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1001,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1002,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1002,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1003,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1003,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1004,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1004,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1005,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1005,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1006,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1006,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1007,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1007,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1008,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1008,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1009,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1009,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1010,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1010,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1011,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1011,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1012,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1012,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1013,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1013,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1014,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1014,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1015,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1015,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1016,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1016,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1017,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1017,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1018,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1018,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1019,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1019,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1020,20,Stationary Exponential,EWMA,Stationary False Switches,,,0.0
+1020,20,Stationary Exponential,Sliding Window,Stationary False Switches,,,0.0
+1001,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1001,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1002,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1002,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1003,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1003,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1004,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1004,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1005,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1005,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1006,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1006,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1007,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1007,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1008,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1008,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1009,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1009,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1010,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1010,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1011,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1011,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1012,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1012,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1013,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1013,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1014,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1014,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1015,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1015,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1016,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1016,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1017,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1017,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1018,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1018,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1019,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1019,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1020,0,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1020,0,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1001,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1001,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1002,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1002,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1003,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1003,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1004,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1004,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1005,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1005,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1006,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1006,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1007,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1007,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1008,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1008,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1009,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1009,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1010,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1010,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1011,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1011,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1012,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1012,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1013,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1013,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1014,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1014,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1015,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1015,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1016,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1016,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1017,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1017,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1018,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1018,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1019,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1019,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1020,5,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1020,5,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1001,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1001,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1002,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1002,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1003,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1003,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1004,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1004,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1005,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1005,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1006,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1006,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1007,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1007,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1008,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1008,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1009,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1009,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1010,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1010,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1011,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1011,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1012,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1012,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1013,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1013,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1014,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1014,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1015,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1015,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1016,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1016,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1017,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1017,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1018,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1018,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1019,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1019,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1020,10,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1020,10,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1001,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1001,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1002,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1002,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1003,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1003,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1004,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1004,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1005,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1005,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1006,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1006,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1007,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1007,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1008,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1008,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1009,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1009,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1010,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1010,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1011,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1011,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1012,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1012,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1013,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1013,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1014,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1014,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1015,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1015,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1016,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1016,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1017,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1017,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1018,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1018,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1019,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1019,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1020,15,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1020,15,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1001,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1001,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1002,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1002,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1003,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1003,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1004,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1004,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1005,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1005,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1006,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1006,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1007,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1007,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1008,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1008,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1009,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1009,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1010,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1010,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1011,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1011,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1012,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1012,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1013,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1013,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1014,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1014,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1015,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1015,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1016,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1016,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1017,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1017,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1018,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1018,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1019,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1019,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1020,20,Stationary Uniform,EWMA,Stationary False Switches,,,0.0
+1020,20,Stationary Uniform,Sliding Window,Stationary False Switches,,,0.0
+1001,0,Dynamic E-U-E,EWMA,Exponential to Uniform,312.0,11.0,
+1001,0,Dynamic E-U-E,EWMA,Uniform to Exponential,610.0,9.0,
+1001,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1001,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,315.0,14.0,
+1001,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,615.0,14.0,
+1001,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1002,0,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+1002,0,Dynamic E-U-E,EWMA,Uniform to Exponential,613.0,12.0,
+1002,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1002,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,314.0,13.0,
+1002,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+1002,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1003,0,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+1003,0,Dynamic E-U-E,EWMA,Uniform to Exponential,612.0,11.0,
+1003,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1003,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+1003,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,616.0,15.0,
+1003,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1004,0,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+1004,0,Dynamic E-U-E,EWMA,Uniform to Exponential,613.0,12.0,
+1004,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1004,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+1004,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,617.0,16.0,
+1004,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1005,0,Dynamic E-U-E,EWMA,Exponential to Uniform,316.0,15.0,
+1005,0,Dynamic E-U-E,EWMA,Uniform to Exponential,612.0,11.0,
+1005,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1005,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,318.0,17.0,
+1005,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,615.0,14.0,
+1005,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1006,0,Dynamic E-U-E,EWMA,Exponential to Uniform,313.0,12.0,
+1006,0,Dynamic E-U-E,EWMA,Uniform to Exponential,614.0,13.0,
+1006,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1006,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,316.0,15.0,
+1006,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+1006,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1007,0,Dynamic E-U-E,EWMA,Exponential to Uniform,312.0,11.0,
+1007,0,Dynamic E-U-E,EWMA,Uniform to Exponential,612.0,11.0,
+1007,0,Dynamic E-U-E,EWMA,Total False Switches,,,1.0
+1007,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,319.0,18.0,
+1007,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,615.0,14.0,
+1007,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1008,0,Dynamic E-U-E,EWMA,Exponential to Uniform,312.0,11.0,
+1008,0,Dynamic E-U-E,EWMA,Uniform to Exponential,611.0,10.0,
+1008,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1008,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+1008,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,616.0,15.0,
+1008,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1009,0,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+1009,0,Dynamic E-U-E,EWMA,Uniform to Exponential,612.0,11.0,
+1009,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1009,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,315.0,14.0,
+1009,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,615.0,14.0,
+1009,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1010,0,Dynamic E-U-E,EWMA,Exponential to Uniform,312.0,11.0,
+1010,0,Dynamic E-U-E,EWMA,Uniform to Exponential,617.0,16.0,
+1010,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1010,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,315.0,14.0,
+1010,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+1010,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1011,0,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+1011,0,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+1011,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1011,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+1011,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1011,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1012,0,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+1012,0,Dynamic E-U-E,EWMA,Uniform to Exponential,615.0,14.0,
+1012,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1012,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,315.0,14.0,
+1012,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,616.0,15.0,
+1012,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1013,0,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+1013,0,Dynamic E-U-E,EWMA,Uniform to Exponential,613.0,12.0,
+1013,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1013,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+1013,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,617.0,16.0,
+1013,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1014,0,Dynamic E-U-E,EWMA,Exponential to Uniform,313.0,12.0,
+1014,0,Dynamic E-U-E,EWMA,Uniform to Exponential,612.0,11.0,
+1014,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1014,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,315.0,14.0,
+1014,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,615.0,14.0,
+1014,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1015,0,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+1015,0,Dynamic E-U-E,EWMA,Uniform to Exponential,610.0,9.0,
+1015,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1015,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+1015,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,615.0,14.0,
+1015,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1016,0,Dynamic E-U-E,EWMA,Exponential to Uniform,317.0,16.0,
+1016,0,Dynamic E-U-E,EWMA,Uniform to Exponential,610.0,9.0,
+1016,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1016,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,318.0,17.0,
+1016,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,615.0,14.0,
+1016,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1017,0,Dynamic E-U-E,EWMA,Exponential to Uniform,315.0,14.0,
+1017,0,Dynamic E-U-E,EWMA,Uniform to Exponential,615.0,14.0,
+1017,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1017,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,318.0,17.0,
+1017,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+1017,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1018,0,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1018,0,Dynamic E-U-E,EWMA,Uniform to Exponential,614.0,13.0,
+1018,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1018,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+1018,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+1018,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1019,0,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+1019,0,Dynamic E-U-E,EWMA,Uniform to Exponential,617.0,16.0,
+1019,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1019,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,315.0,14.0,
+1019,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1019,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1020,0,Dynamic E-U-E,EWMA,Exponential to Uniform,312.0,11.0,
+1020,0,Dynamic E-U-E,EWMA,Uniform to Exponential,614.0,13.0,
+1020,0,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1020,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,315.0,14.0,
+1020,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,615.0,14.0,
+1020,0,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1001,5,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+1001,5,Dynamic E-U-E,EWMA,Uniform to Exponential,616.0,15.0,
+1001,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1001,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+1001,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+1001,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1002,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1002,5,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+1002,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1002,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+1002,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1002,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1003,5,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1003,5,Dynamic E-U-E,EWMA,Uniform to Exponential,616.0,15.0,
+1003,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1003,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+1003,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+1003,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1004,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1004,5,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+1004,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1004,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+1004,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+1004,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1005,5,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+1005,5,Dynamic E-U-E,EWMA,Uniform to Exponential,615.0,14.0,
+1005,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1005,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,315.0,14.0,
+1005,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+1005,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1006,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1006,5,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+1006,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1006,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+1006,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1006,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1007,5,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+1007,5,Dynamic E-U-E,EWMA,Uniform to Exponential,615.0,14.0,
+1007,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1007,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+1007,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+1007,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1008,5,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+1008,5,Dynamic E-U-E,EWMA,Uniform to Exponential,617.0,16.0,
+1008,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1008,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+1008,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+1008,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1009,5,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+1009,5,Dynamic E-U-E,EWMA,Uniform to Exponential,615.0,14.0,
+1009,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1009,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+1009,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,617.0,16.0,
+1009,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1010,5,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+1010,5,Dynamic E-U-E,EWMA,Uniform to Exponential,619.0,18.0,
+1010,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1010,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+1010,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+1010,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1011,5,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1011,5,Dynamic E-U-E,EWMA,Uniform to Exponential,619.0,18.0,
+1011,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1011,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+1011,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,621.0,20.0,
+1011,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1012,5,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+1012,5,Dynamic E-U-E,EWMA,Uniform to Exponential,616.0,15.0,
+1012,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1012,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+1012,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1012,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1013,5,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1013,5,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+1013,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1013,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+1013,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1013,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1014,5,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+1014,5,Dynamic E-U-E,EWMA,Uniform to Exponential,616.0,15.0,
+1014,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1014,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+1014,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1014,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1015,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1015,5,Dynamic E-U-E,EWMA,Uniform to Exponential,615.0,14.0,
+1015,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1015,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+1015,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1015,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1016,5,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+1016,5,Dynamic E-U-E,EWMA,Uniform to Exponential,616.0,15.0,
+1016,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1016,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,314.0,13.0,
+1016,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1016,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1017,5,Dynamic E-U-E,EWMA,Exponential to Uniform,312.0,11.0,
+1017,5,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+1017,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1017,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,315.0,14.0,
+1017,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1017,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1018,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1018,5,Dynamic E-U-E,EWMA,Uniform to Exponential,619.0,18.0,
+1018,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1018,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+1018,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1018,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1019,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1019,5,Dynamic E-U-E,EWMA,Uniform to Exponential,619.0,18.0,
+1019,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1019,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+1019,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1019,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1020,5,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+1020,5,Dynamic E-U-E,EWMA,Uniform to Exponential,615.0,14.0,
+1020,5,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1020,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+1020,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+1020,5,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1001,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1001,10,Dynamic E-U-E,EWMA,Uniform to Exponential,623.0,22.0,
+1001,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1001,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+1001,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1001,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1002,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1002,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+1002,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1002,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+1002,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1002,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1003,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1003,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+1003,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1003,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1003,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,621.0,20.0,
+1003,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1004,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1004,10,Dynamic E-U-E,EWMA,Uniform to Exponential,624.0,23.0,
+1004,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1004,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1004,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1004,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1005,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1005,10,Dynamic E-U-E,EWMA,Uniform to Exponential,623.0,22.0,
+1005,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1005,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+1005,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1005,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1006,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1006,10,Dynamic E-U-E,EWMA,Uniform to Exponential,623.0,22.0,
+1006,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1006,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1006,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,621.0,20.0,
+1006,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1007,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1007,10,Dynamic E-U-E,EWMA,Uniform to Exponential,621.0,20.0,
+1007,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1007,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+1007,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1007,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1008,10,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1008,10,Dynamic E-U-E,EWMA,Uniform to Exponential,621.0,20.0,
+1008,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1008,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+1008,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1008,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1009,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1009,10,Dynamic E-U-E,EWMA,Uniform to Exponential,620.0,19.0,
+1009,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1009,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1009,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+1009,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1010,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1010,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+1010,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1010,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+1010,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,621.0,20.0,
+1010,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1011,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1011,10,Dynamic E-U-E,EWMA,Uniform to Exponential,623.0,22.0,
+1011,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1011,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1011,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1011,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1012,10,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1012,10,Dynamic E-U-E,EWMA,Uniform to Exponential,621.0,20.0,
+1012,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1012,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+1012,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1012,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1013,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1013,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+1013,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1013,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1013,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1013,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1014,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1014,10,Dynamic E-U-E,EWMA,Uniform to Exponential,621.0,20.0,
+1014,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1014,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+1014,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1014,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1015,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1015,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+1015,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1015,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1015,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1015,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1016,10,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1016,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+1016,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1016,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+1016,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1016,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1017,10,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1017,10,Dynamic E-U-E,EWMA,Uniform to Exponential,623.0,22.0,
+1017,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1017,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+1017,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1017,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1018,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1018,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+1018,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1018,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1018,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1018,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1019,10,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+1019,10,Dynamic E-U-E,EWMA,Uniform to Exponential,624.0,23.0,
+1019,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1019,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+1019,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1019,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1020,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1020,10,Dynamic E-U-E,EWMA,Uniform to Exponential,621.0,20.0,
+1020,10,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1020,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+1020,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1020,10,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1001,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1001,15,Dynamic E-U-E,EWMA,Uniform to Exponential,628.0,27.0,
+1001,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1001,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1001,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1001,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1002,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1002,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+1002,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1002,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1002,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1002,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1003,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1003,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+1003,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1003,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1003,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1003,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1004,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1004,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+1004,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1004,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1004,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1004,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1005,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1005,15,Dynamic E-U-E,EWMA,Uniform to Exponential,628.0,27.0,
+1005,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1005,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1005,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1005,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1006,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1006,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+1006,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1006,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1006,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1006,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1007,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1007,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+1007,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1007,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1007,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1007,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1008,15,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1008,15,Dynamic E-U-E,EWMA,Uniform to Exponential,625.0,24.0,
+1008,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1008,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1008,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1008,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1009,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1009,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+1009,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1009,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1009,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1009,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1010,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1010,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+1010,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1010,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1010,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1010,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1011,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1011,15,Dynamic E-U-E,EWMA,Uniform to Exponential,628.0,27.0,
+1011,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1011,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1011,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1011,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1012,15,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1012,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+1012,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1012,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1012,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1012,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1013,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1013,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+1013,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1013,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1013,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1013,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1014,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1014,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+1014,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1014,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1014,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+1014,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1015,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1015,15,Dynamic E-U-E,EWMA,Uniform to Exponential,628.0,27.0,
+1015,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1015,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1015,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1015,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1016,15,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1016,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+1016,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1016,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1016,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1016,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1017,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1017,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+1017,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1017,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1017,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1017,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1018,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1018,15,Dynamic E-U-E,EWMA,Uniform to Exponential,628.0,27.0,
+1018,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1018,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1018,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1018,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1019,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1019,15,Dynamic E-U-E,EWMA,Uniform to Exponential,629.0,28.0,
+1019,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1019,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1019,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1019,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1020,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1020,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+1020,15,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1020,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1020,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1020,15,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1001,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1001,20,Dynamic E-U-E,EWMA,Uniform to Exponential,632.0,31.0,
+1001,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1001,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1001,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,625.0,24.0,
+1001,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1002,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1002,20,Dynamic E-U-E,EWMA,Uniform to Exponential,632.0,31.0,
+1002,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1002,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+1002,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,625.0,24.0,
+1002,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1003,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1003,20,Dynamic E-U-E,EWMA,Uniform to Exponential,632.0,31.0,
+1003,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1003,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+1003,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,625.0,24.0,
+1003,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1004,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1004,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+1004,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1004,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+1004,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1004,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1005,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1005,20,Dynamic E-U-E,EWMA,Uniform to Exponential,632.0,31.0,
+1005,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1005,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1005,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1005,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1006,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1006,20,Dynamic E-U-E,EWMA,Uniform to Exponential,631.0,30.0,
+1006,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1006,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1006,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1006,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1007,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1007,20,Dynamic E-U-E,EWMA,Uniform to Exponential,629.0,28.0,
+1007,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1007,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1007,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1007,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1008,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1008,20,Dynamic E-U-E,EWMA,Uniform to Exponential,629.0,28.0,
+1008,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1008,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1008,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1008,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1009,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1009,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+1009,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1009,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+1009,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1009,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1010,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1010,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+1010,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1010,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1010,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1010,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1011,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1011,20,Dynamic E-U-E,EWMA,Uniform to Exponential,631.0,30.0,
+1011,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1011,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1011,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1011,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1012,20,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1012,20,Dynamic E-U-E,EWMA,Uniform to Exponential,629.0,28.0,
+1012,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1012,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+1012,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1012,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1013,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1013,20,Dynamic E-U-E,EWMA,Uniform to Exponential,631.0,30.0,
+1013,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1013,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1013,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1013,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1014,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1014,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+1014,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1014,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1014,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1014,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1015,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1015,20,Dynamic E-U-E,EWMA,Uniform to Exponential,633.0,32.0,
+1015,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1015,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1015,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,625.0,24.0,
+1015,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1016,20,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+1016,20,Dynamic E-U-E,EWMA,Uniform to Exponential,632.0,31.0,
+1016,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1016,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+1016,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+1016,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1017,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1017,20,Dynamic E-U-E,EWMA,Uniform to Exponential,631.0,30.0,
+1017,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1017,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1017,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,625.0,24.0,
+1017,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1018,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1018,20,Dynamic E-U-E,EWMA,Uniform to Exponential,632.0,31.0,
+1018,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1018,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1018,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1018,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1019,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+1019,20,Dynamic E-U-E,EWMA,Uniform to Exponential,633.0,32.0,
+1019,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1019,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1019,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1019,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0
+1020,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+1020,20,Dynamic E-U-E,EWMA,Uniform to Exponential,629.0,28.0,
+1020,20,Dynamic E-U-E,EWMA,Total False Switches,,,0.0
+1020,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+1020,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+1020,20,Dynamic E-U-E,Sliding Window,Total False Switches,,,0.0

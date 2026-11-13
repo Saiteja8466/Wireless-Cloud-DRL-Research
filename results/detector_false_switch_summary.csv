@@ -1,0 +1,31 @@
+Scenario,SNR (dB),Detector,Mean_False_Switches,Std_False_Switches
+Dynamic E-U-E,0,EWMA,0.05,0.22360679774997894
+Dynamic E-U-E,0,Sliding Window,0.0,0.0
+Dynamic E-U-E,5,EWMA,0.0,0.0
+Dynamic E-U-E,5,Sliding Window,0.0,0.0
+Dynamic E-U-E,10,EWMA,0.0,0.0
+Dynamic E-U-E,10,Sliding Window,0.0,0.0
+Dynamic E-U-E,15,EWMA,0.0,0.0
+Dynamic E-U-E,15,Sliding Window,0.0,0.0
+Dynamic E-U-E,20,EWMA,0.0,0.0
+Dynamic E-U-E,20,Sliding Window,0.0,0.0
+Stationary Exponential,0,EWMA,0.0,0.0
+Stationary Exponential,0,Sliding Window,0.0,0.0
+Stationary Exponential,5,EWMA,0.0,0.0
+Stationary Exponential,5,Sliding Window,0.0,0.0
+Stationary Exponential,10,EWMA,0.0,0.0
+Stationary Exponential,10,Sliding Window,0.0,0.0
+Stationary Exponential,15,EWMA,0.0,0.0
+Stationary Exponential,15,Sliding Window,0.0,0.0
+Stationary Exponential,20,EWMA,0.0,0.0
+Stationary Exponential,20,Sliding Window,0.0,0.0
+Stationary Uniform,0,EWMA,0.0,0.0
+Stationary Uniform,0,Sliding Window,0.0,0.0
+Stationary Uniform,5,EWMA,0.0,0.0
+Stationary Uniform,5,Sliding Window,0.0,0.0
+Stationary Uniform,10,EWMA,0.0,0.0
+Stationary Uniform,10,Sliding Window,0.0,0.0
+Stationary Uniform,15,EWMA,0.0,0.0
+Stationary Uniform,15,Sliding Window,0.0,0.0
+Stationary Uniform,20,EWMA,0.0,0.0
+Stationary Uniform,20,Sliding Window,0.0,0.0

@@ -1,0 +1,1801 @@
+Seed,SNR (dB),Scenario,Detector,Event,Detection Frame,Detection Delay,False Switches
+2001,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2001,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2002,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2002,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2003,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2003,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2004,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2004,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2005,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2005,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2006,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2006,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2007,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2007,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2008,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2008,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2009,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2009,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2010,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2010,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2011,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2011,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2012,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2012,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2013,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2013,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2014,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2014,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2015,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2015,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2016,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2016,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2017,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2017,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2018,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2018,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2019,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2019,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2020,0,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2020,0,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2001,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2001,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2002,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2002,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2003,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2003,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2004,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2004,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2005,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2005,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2006,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2006,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2007,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2007,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2008,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2008,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2009,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2009,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2010,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2010,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2011,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2011,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2012,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2012,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2013,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2013,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2014,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2014,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2015,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2015,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2016,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2016,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2017,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2017,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2018,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2018,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2019,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2019,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2020,5,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2020,5,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2001,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2001,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2002,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2002,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2003,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2003,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2004,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2004,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2005,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2005,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2006,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2006,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2007,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2007,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2008,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2008,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2009,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2009,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2010,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2010,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2011,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2011,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2012,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2012,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2013,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2013,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2014,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2014,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2015,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2015,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2016,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2016,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2017,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2017,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2018,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2018,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2019,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2019,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2020,10,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2020,10,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2001,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2001,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2002,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2002,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2003,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2003,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2004,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2004,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2005,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2005,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2006,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2006,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2007,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2007,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2008,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2008,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2009,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2009,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2010,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2010,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2011,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2011,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2012,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2012,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2013,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2013,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2014,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2014,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2015,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2015,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2016,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2016,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2017,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2017,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2018,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2018,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2019,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2019,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2020,15,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2020,15,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2001,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2001,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2002,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2002,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2003,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2003,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2004,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2004,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2005,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2005,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2006,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2006,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2007,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2007,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2008,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2008,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2009,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2009,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2010,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2010,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2011,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2011,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2012,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2012,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2013,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2013,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2014,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2014,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2015,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2015,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2016,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2016,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2017,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2017,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2018,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2018,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2019,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2019,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2020,20,Stationary Exponential,EWMA,Total Incorrect Switches,,,0.0
+2020,20,Stationary Exponential,Sliding Window,Total Incorrect Switches,,,0.0
+2001,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2001,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2002,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2002,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2003,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2003,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2004,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2004,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2005,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2005,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2006,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2006,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2007,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2007,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2008,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2008,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2009,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2009,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2010,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2010,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2011,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2011,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2012,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2012,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2013,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2013,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2014,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2014,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2015,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,1.0
+2015,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2016,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2016,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2017,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2017,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2018,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2018,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2019,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2019,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2020,0,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2020,0,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2001,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2001,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2002,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2002,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2003,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2003,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2004,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2004,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2005,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2005,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2006,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2006,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2007,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2007,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2008,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2008,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2009,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2009,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2010,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2010,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2011,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2011,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2012,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2012,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2013,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2013,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2014,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2014,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2015,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2015,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2016,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2016,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2017,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2017,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2018,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2018,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2019,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2019,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2020,5,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2020,5,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2001,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2001,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2002,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2002,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2003,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2003,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2004,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2004,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2005,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2005,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2006,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2006,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2007,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2007,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2008,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2008,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2009,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2009,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2010,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2010,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2011,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2011,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2012,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2012,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2013,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2013,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2014,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2014,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2015,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2015,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2016,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2016,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2017,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2017,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2018,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2018,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2019,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2019,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2020,10,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2020,10,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2001,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2001,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2002,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2002,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2003,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2003,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2004,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2004,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2005,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2005,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2006,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2006,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2007,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2007,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2008,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2008,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2009,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2009,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2010,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2010,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2011,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2011,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2012,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2012,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2013,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2013,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2014,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2014,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2015,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2015,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2016,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2016,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2017,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2017,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2018,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2018,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2019,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2019,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2020,15,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2020,15,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2001,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2001,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2002,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2002,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2003,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2003,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2004,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2004,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2005,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2005,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2006,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2006,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2007,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2007,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2008,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2008,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2009,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2009,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2010,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2010,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2011,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2011,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2012,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2012,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2013,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2013,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2014,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2014,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2015,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2015,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2016,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2016,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2017,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2017,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2018,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2018,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2019,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2019,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2020,20,Stationary Uniform,EWMA,Total Incorrect Switches,,,0.0
+2020,20,Stationary Uniform,Sliding Window,Total Incorrect Switches,,,0.0
+2001,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,2.0
+2001,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,2.0
+2002,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,2.0
+2002,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,2.0
+2003,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,2.0
+2003,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,0.0
+2004,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,0.0
+2004,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,2.0
+2005,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,2.0
+2005,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,2.0
+2006,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,0.0
+2006,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,0.0
+2007,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,0.0
+2007,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,0.0
+2008,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,5.0
+2008,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,2.0
+2009,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,2.0
+2009,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,2.0
+2010,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,2.0
+2010,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,0.0
+2011,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,2.0
+2011,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,2.0
+2012,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,0.0
+2012,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,0.0
+2013,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,0.0
+2013,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,0.0
+2014,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,0.0
+2014,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,0.0
+2015,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,2.0
+2015,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,4.0
+2016,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,2.0
+2016,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,2.0
+2017,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,0.0
+2017,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,2.0
+2018,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,2.0
+2018,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,0.0
+2019,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,6.0
+2019,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,2.0
+2020,0,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,2.0
+2020,0,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,2.0
+2001,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,18.0
+2001,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,16.0
+2002,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,28.0
+2002,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,9.0
+2003,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,10.0
+2003,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,8.0
+2004,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,8.0
+2004,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,4.0
+2005,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,16.0
+2005,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,8.0
+2006,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,10.0
+2006,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,10.0
+2007,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,12.0
+2007,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,10.0
+2008,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,28.0
+2008,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,13.0
+2009,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,19.0
+2009,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,13.0
+2010,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,8.0
+2010,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,8.0
+2011,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,12.0
+2011,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,10.0
+2012,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,6.0
+2012,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,8.0
+2013,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,8.0
+2013,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,8.0
+2014,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,8.0
+2014,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,12.0
+2015,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,12.0
+2015,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,10.0
+2016,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,20.0
+2016,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,12.0
+2017,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,15.0
+2017,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,7.0
+2018,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,24.0
+2018,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,15.0
+2019,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,17.0
+2019,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,7.0
+2020,5,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,20.0
+2020,5,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,14.0
+2001,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,50.0
+2001,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,28.0
+2002,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,37.0
+2002,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,21.0
+2003,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,45.0
+2003,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,27.0
+2004,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,51.0
+2004,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,24.0
+2005,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,47.0
+2005,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,23.0
+2006,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,45.0
+2006,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,21.0
+2007,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,49.0
+2007,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,25.0
+2008,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,44.0
+2008,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,25.0
+2009,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,52.0
+2009,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,25.0
+2010,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,42.0
+2010,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,27.0
+2011,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,41.0
+2011,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,25.0
+2012,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,44.0
+2012,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,23.0
+2013,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,48.0
+2013,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,24.0
+2014,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,42.0
+2014,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,22.0
+2015,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,36.0
+2015,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,20.0
+2016,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,49.0
+2016,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,23.0
+2017,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,37.0
+2017,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,22.0
+2018,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,56.0
+2018,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,20.0
+2019,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,37.0
+2019,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,23.0
+2020,10,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,39.0
+2020,10,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,19.0
+2001,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,26.0
+2001,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,16.0
+2002,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,15.0
+2002,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,9.0
+2003,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,29.0
+2003,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,19.0
+2004,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,36.0
+2004,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,14.0
+2005,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,23.0
+2005,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,20.0
+2006,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,24.0
+2006,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,18.0
+2007,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,34.0
+2007,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,12.0
+2008,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,26.0
+2008,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,15.0
+2009,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,28.0
+2009,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,16.0
+2010,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,34.0
+2010,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,18.0
+2011,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,32.0
+2011,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,15.0
+2012,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,28.0
+2012,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,14.0
+2013,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,16.0
+2013,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,14.0
+2014,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,20.0
+2014,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,10.0
+2015,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,42.0
+2015,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,12.0
+2016,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,33.0
+2016,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,9.0
+2017,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,20.0
+2017,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,12.0
+2018,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,20.0
+2018,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,10.0
+2019,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,21.0
+2019,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,17.0
+2020,15,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,18.0
+2020,15,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,14.0
+2001,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,18.0
+2001,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,12.0
+2002,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,13.0
+2002,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,9.0
+2003,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,19.0
+2003,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,17.0
+2004,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,16.0
+2004,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,12.0
+2005,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,26.0
+2005,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,18.0
+2006,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,18.0
+2006,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,12.0
+2007,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,22.0
+2007,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,12.0
+2008,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,14.0
+2008,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,15.0
+2009,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,18.0
+2009,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,14.0
+2010,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,34.0
+2010,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,16.0
+2011,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,16.0
+2011,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,14.0
+2012,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,20.0
+2012,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,10.0
+2013,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,18.0
+2013,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,12.0
+2014,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,12.0
+2014,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,10.0
+2015,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,30.0
+2015,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,10.0
+2016,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,17.0
+2016,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,4.0
+2017,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,12.0
+2017,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,8.0
+2018,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,12.0
+2018,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,8.0
+2019,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,25.0
+2019,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,13.0
+2020,20,Stationary Two-Cluster,EWMA,Total Incorrect Switches,,,12.0
+2020,20,Stationary Two-Cluster,Sliding Window,Total Incorrect Switches,,,10.0
+2001,0,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+2001,0,Dynamic E-U-E,EWMA,Uniform to Exponential,610.0,9.0,
+2001,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2001,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,314.0,13.0,
+2001,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,614.0,13.0,
+2001,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2002,0,Dynamic E-U-E,EWMA,Exponential to Uniform,312.0,11.0,
+2002,0,Dynamic E-U-E,EWMA,Uniform to Exponential,614.0,13.0,
+2002,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2002,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,314.0,13.0,
+2002,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+2002,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2003,0,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+2003,0,Dynamic E-U-E,EWMA,Uniform to Exponential,614.0,13.0,
+2003,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2003,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,314.0,13.0,
+2003,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,616.0,15.0,
+2003,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2004,0,Dynamic E-U-E,EWMA,Exponential to Uniform,313.0,12.0,
+2004,0,Dynamic E-U-E,EWMA,Uniform to Exponential,615.0,14.0,
+2004,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2004,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,316.0,15.0,
+2004,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,617.0,16.0,
+2004,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2005,0,Dynamic E-U-E,EWMA,Exponential to Uniform,314.0,13.0,
+2005,0,Dynamic E-U-E,EWMA,Uniform to Exponential,615.0,14.0,
+2005,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2005,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,317.0,16.0,
+2005,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,617.0,16.0,
+2005,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2006,0,Dynamic E-U-E,EWMA,Exponential to Uniform,313.0,12.0,
+2006,0,Dynamic E-U-E,EWMA,Uniform to Exponential,610.0,9.0,
+2006,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2006,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,315.0,14.0,
+2006,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,614.0,13.0,
+2006,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2007,0,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+2007,0,Dynamic E-U-E,EWMA,Uniform to Exponential,613.0,12.0,
+2007,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2007,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+2007,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,617.0,16.0,
+2007,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2008,0,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2008,0,Dynamic E-U-E,EWMA,Uniform to Exponential,616.0,15.0,
+2008,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2008,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+2008,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,617.0,16.0,
+2008,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2009,0,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+2009,0,Dynamic E-U-E,EWMA,Uniform to Exponential,612.0,11.0,
+2009,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2009,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+2009,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,616.0,15.0,
+2009,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2010,0,Dynamic E-U-E,EWMA,Exponential to Uniform,313.0,12.0,
+2010,0,Dynamic E-U-E,EWMA,Uniform to Exponential,619.0,18.0,
+2010,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2010,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,315.0,14.0,
+2010,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+2010,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2011,0,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+2011,0,Dynamic E-U-E,EWMA,Uniform to Exponential,613.0,12.0,
+2011,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2011,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+2011,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,617.0,16.0,
+2011,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2012,0,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+2012,0,Dynamic E-U-E,EWMA,Uniform to Exponential,614.0,13.0,
+2012,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2012,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+2012,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+2012,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2013,0,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+2013,0,Dynamic E-U-E,EWMA,Uniform to Exponential,614.0,13.0,
+2013,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2013,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,314.0,13.0,
+2013,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,616.0,15.0,
+2013,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2014,0,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+2014,0,Dynamic E-U-E,EWMA,Uniform to Exponential,616.0,15.0,
+2014,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2014,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+2014,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+2014,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2015,0,Dynamic E-U-E,EWMA,Exponential to Uniform,313.0,12.0,
+2015,0,Dynamic E-U-E,EWMA,Uniform to Exponential,612.0,11.0,
+2015,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2015,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,317.0,16.0,
+2015,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,614.0,13.0,
+2015,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2016,0,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+2016,0,Dynamic E-U-E,EWMA,Uniform to Exponential,613.0,12.0,
+2016,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2016,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+2016,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+2016,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2017,0,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+2017,0,Dynamic E-U-E,EWMA,Uniform to Exponential,612.0,11.0,
+2017,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2017,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+2017,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,615.0,14.0,
+2017,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2018,0,Dynamic E-U-E,EWMA,Exponential to Uniform,314.0,13.0,
+2018,0,Dynamic E-U-E,EWMA,Uniform to Exponential,613.0,12.0,
+2018,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2018,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,316.0,15.0,
+2018,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,614.0,13.0,
+2018,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2019,0,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2019,0,Dynamic E-U-E,EWMA,Uniform to Exponential,620.0,19.0,
+2019,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2019,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+2019,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,621.0,20.0,
+2019,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2020,0,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2020,0,Dynamic E-U-E,EWMA,Uniform to Exponential,612.0,11.0,
+2020,0,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2020,0,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+2020,0,Dynamic E-U-E,Sliding Window,Uniform to Exponential,613.0,12.0,
+2020,0,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2001,5,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2001,5,Dynamic E-U-E,EWMA,Uniform to Exponential,616.0,15.0,
+2001,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2001,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+2001,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+2001,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2002,5,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+2002,5,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+2002,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2002,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+2002,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2002,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2003,5,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+2003,5,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+2003,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2003,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+2003,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2003,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2004,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2004,5,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+2004,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2004,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+2004,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2004,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2005,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2005,5,Dynamic E-U-E,EWMA,Uniform to Exponential,617.0,16.0,
+2005,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2005,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+2005,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2005,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2006,5,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2006,5,Dynamic E-U-E,EWMA,Uniform to Exponential,614.0,13.0,
+2006,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2006,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+2006,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+2006,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2007,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2007,5,Dynamic E-U-E,EWMA,Uniform to Exponential,617.0,16.0,
+2007,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2007,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+2007,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2007,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2008,5,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2008,5,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+2008,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2008,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+2008,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+2008,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2009,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2009,5,Dynamic E-U-E,EWMA,Uniform to Exponential,615.0,14.0,
+2009,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2009,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+2009,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,617.0,16.0,
+2009,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2010,5,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+2010,5,Dynamic E-U-E,EWMA,Uniform to Exponential,619.0,18.0,
+2010,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2010,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,314.0,13.0,
+2010,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2010,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2011,5,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2011,5,Dynamic E-U-E,EWMA,Uniform to Exponential,617.0,16.0,
+2011,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2011,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+2011,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2011,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2012,5,Dynamic E-U-E,EWMA,Exponential to Uniform,311.0,10.0,
+2012,5,Dynamic E-U-E,EWMA,Uniform to Exponential,616.0,15.0,
+2012,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2012,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+2012,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2012,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2013,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2013,5,Dynamic E-U-E,EWMA,Uniform to Exponential,617.0,16.0,
+2013,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2013,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+2013,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,619.0,18.0,
+2013,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2014,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2014,5,Dynamic E-U-E,EWMA,Uniform to Exponential,619.0,18.0,
+2014,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2014,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+2014,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,621.0,20.0,
+2014,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2015,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2015,5,Dynamic E-U-E,EWMA,Uniform to Exponential,614.0,13.0,
+2015,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2015,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+2015,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,617.0,16.0,
+2015,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2016,5,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2016,5,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+2016,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2016,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+2016,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2016,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2017,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2017,5,Dynamic E-U-E,EWMA,Uniform to Exponential,618.0,17.0,
+2017,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2017,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,312.0,11.0,
+2017,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2017,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2018,5,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2018,5,Dynamic E-U-E,EWMA,Uniform to Exponential,615.0,14.0,
+2018,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2018,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,313.0,12.0,
+2018,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+2018,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2019,5,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2019,5,Dynamic E-U-E,EWMA,Uniform to Exponential,621.0,20.0,
+2019,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2019,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+2019,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2019,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2020,5,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2020,5,Dynamic E-U-E,EWMA,Uniform to Exponential,616.0,15.0,
+2020,5,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2020,5,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+2020,5,Dynamic E-U-E,Sliding Window,Uniform to Exponential,618.0,17.0,
+2020,5,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2001,10,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2001,10,Dynamic E-U-E,EWMA,Uniform to Exponential,620.0,19.0,
+2001,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2001,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2001,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2001,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2002,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2002,10,Dynamic E-U-E,EWMA,Uniform to Exponential,623.0,22.0,
+2002,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2002,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+2002,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2002,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2003,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2003,10,Dynamic E-U-E,EWMA,Uniform to Exponential,620.0,19.0,
+2003,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2003,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+2003,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2003,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2004,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2004,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+2004,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2004,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+2004,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,621.0,20.0,
+2004,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2005,10,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2005,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+2005,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2005,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2005,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2005,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2006,10,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2006,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+2006,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2006,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2006,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,621.0,20.0,
+2006,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2007,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2007,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+2007,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2007,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+2007,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2007,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2008,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2008,10,Dynamic E-U-E,EWMA,Uniform to Exponential,623.0,22.0,
+2008,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2008,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2008,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2008,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2009,10,Dynamic E-U-E,EWMA,Exponential to Uniform,309.0,8.0,
+2009,10,Dynamic E-U-E,EWMA,Uniform to Exponential,621.0,20.0,
+2009,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2009,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+2009,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2009,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2010,10,Dynamic E-U-E,EWMA,Exponential to Uniform,310.0,9.0,
+2010,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+2010,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2010,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+2010,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,621.0,20.0,
+2010,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2011,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2011,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+2011,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2011,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2011,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2011,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2012,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2012,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+2012,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2012,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,311.0,10.0,
+2012,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2012,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2013,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2013,10,Dynamic E-U-E,EWMA,Uniform to Exponential,622.0,21.0,
+2013,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2013,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+2013,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2013,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2014,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2014,10,Dynamic E-U-E,EWMA,Uniform to Exponential,623.0,22.0,
+2014,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2014,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+2014,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2014,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2015,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2015,10,Dynamic E-U-E,EWMA,Uniform to Exponential,620.0,19.0,
+2015,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2015,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+2015,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2015,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2016,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2016,10,Dynamic E-U-E,EWMA,Uniform to Exponential,624.0,23.0,
+2016,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2016,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2016,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2016,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2017,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2017,10,Dynamic E-U-E,EWMA,Uniform to Exponential,623.0,22.0,
+2017,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2017,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+2017,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,621.0,20.0,
+2017,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2018,10,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2018,10,Dynamic E-U-E,EWMA,Uniform to Exponential,620.0,19.0,
+2018,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2018,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+2018,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2018,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2019,10,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2019,10,Dynamic E-U-E,EWMA,Uniform to Exponential,624.0,23.0,
+2019,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2019,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2019,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2019,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2020,10,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2020,10,Dynamic E-U-E,EWMA,Uniform to Exponential,620.0,19.0,
+2020,10,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2020,10,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2020,10,Dynamic E-U-E,Sliding Window,Uniform to Exponential,620.0,19.0,
+2020,10,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2001,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2001,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+2001,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2001,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+2001,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2001,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2002,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2002,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+2002,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2002,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2002,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2002,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2003,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2003,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+2003,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2003,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2003,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2003,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2004,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2004,15,Dynamic E-U-E,EWMA,Uniform to Exponential,628.0,27.0,
+2004,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2004,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2004,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2004,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2005,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2005,15,Dynamic E-U-E,EWMA,Uniform to Exponential,628.0,27.0,
+2005,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2005,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+2005,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2005,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2006,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2006,15,Dynamic E-U-E,EWMA,Uniform to Exponential,625.0,24.0,
+2006,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2006,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+2006,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2006,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2007,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2007,15,Dynamic E-U-E,EWMA,Uniform to Exponential,629.0,28.0,
+2007,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2007,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2007,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2007,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2008,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2008,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+2008,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2008,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2008,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2008,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2009,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2009,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+2009,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2009,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+2009,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2009,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2010,15,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2010,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+2010,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2010,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,310.0,9.0,
+2010,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2010,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2011,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2011,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+2011,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2011,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2011,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2011,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2012,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2012,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+2012,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2012,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2012,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2012,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2013,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2013,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+2013,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2013,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2013,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2013,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2014,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2014,15,Dynamic E-U-E,EWMA,Uniform to Exponential,628.0,27.0,
+2014,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2014,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2014,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2014,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2015,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2015,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+2015,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2015,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2015,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,621.0,20.0,
+2015,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2016,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2016,15,Dynamic E-U-E,EWMA,Uniform to Exponential,628.0,27.0,
+2016,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2016,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2016,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2016,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2017,15,Dynamic E-U-E,EWMA,Exponential to Uniform,308.0,7.0,
+2017,15,Dynamic E-U-E,EWMA,Uniform to Exponential,627.0,26.0,
+2017,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2017,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2017,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2017,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2018,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2018,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+2018,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2018,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2018,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2018,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2019,15,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2019,15,Dynamic E-U-E,EWMA,Uniform to Exponential,628.0,27.0,
+2019,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2019,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2019,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2019,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2020,15,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2020,15,Dynamic E-U-E,EWMA,Uniform to Exponential,626.0,25.0,
+2020,15,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2020,15,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+2020,15,Dynamic E-U-E,Sliding Window,Uniform to Exponential,622.0,21.0,
+2020,15,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2001,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2001,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+2001,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2001,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+2001,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2001,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2002,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2002,20,Dynamic E-U-E,EWMA,Uniform to Exponential,632.0,31.0,
+2002,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2002,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2002,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,625.0,24.0,
+2002,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2003,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2003,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+2003,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2003,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2003,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,625.0,24.0,
+2003,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2004,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2004,20,Dynamic E-U-E,EWMA,Uniform to Exponential,633.0,32.0,
+2004,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2004,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2004,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,625.0,24.0,
+2004,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2005,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2005,20,Dynamic E-U-E,EWMA,Uniform to Exponential,633.0,32.0,
+2005,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2005,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+2005,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2005,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2006,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2006,20,Dynamic E-U-E,EWMA,Uniform to Exponential,629.0,28.0,
+2006,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2006,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+2006,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2006,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2007,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2007,20,Dynamic E-U-E,EWMA,Uniform to Exponential,632.0,31.0,
+2007,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2007,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2007,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,625.0,24.0,
+2007,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2008,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2008,20,Dynamic E-U-E,EWMA,Uniform to Exponential,631.0,30.0,
+2008,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2008,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2008,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2008,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2009,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2009,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+2009,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2009,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,309.0,8.0,
+2009,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2009,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2010,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2010,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+2010,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2010,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2010,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2010,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2011,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2011,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+2011,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2011,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2011,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2011,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2012,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2012,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+2012,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2012,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2012,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,625.0,24.0,
+2012,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2013,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2013,20,Dynamic E-U-E,EWMA,Uniform to Exponential,631.0,30.0,
+2013,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2013,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2013,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2013,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2014,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2014,20,Dynamic E-U-E,EWMA,Uniform to Exponential,633.0,32.0,
+2014,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2014,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2014,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2014,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2015,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2015,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+2015,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2015,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2015,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2015,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2016,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2016,20,Dynamic E-U-E,EWMA,Uniform to Exponential,633.0,32.0,
+2016,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2016,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2016,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,625.0,24.0,
+2016,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2017,20,Dynamic E-U-E,EWMA,Exponential to Uniform,307.0,6.0,
+2017,20,Dynamic E-U-E,EWMA,Uniform to Exponential,632.0,31.0,
+2017,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2017,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,308.0,7.0,
+2017,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2017,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2018,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2018,20,Dynamic E-U-E,EWMA,Uniform to Exponential,629.0,28.0,
+2018,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2018,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2018,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2018,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2019,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2019,20,Dynamic E-U-E,EWMA,Uniform to Exponential,632.0,31.0,
+2019,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2019,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,307.0,6.0,
+2019,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,624.0,23.0,
+2019,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2020,20,Dynamic E-U-E,EWMA,Exponential to Uniform,306.0,5.0,
+2020,20,Dynamic E-U-E,EWMA,Uniform to Exponential,630.0,29.0,
+2020,20,Dynamic E-U-E,EWMA,Total Incorrect Switches,,,0.0
+2020,20,Dynamic E-U-E,Sliding Window,Exponential to Uniform,306.0,5.0,
+2020,20,Dynamic E-U-E,Sliding Window,Uniform to Exponential,623.0,22.0,
+2020,20,Dynamic E-U-E,Sliding Window,Total Incorrect Switches,,,0.0
+2001,0,Dynamic U-E-U,EWMA,Uniform to Exponential,314.0,13.0,
+2001,0,Dynamic U-E-U,EWMA,Exponential to Uniform,612.0,11.0,
+2001,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2001,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,317.0,16.0,
+2001,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,614.0,13.0,
+2001,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2002,0,Dynamic U-E-U,EWMA,Uniform to Exponential,314.0,13.0,
+2002,0,Dynamic U-E-U,EWMA,Exponential to Uniform,610.0,9.0,
+2002,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2002,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,316.0,15.0,
+2002,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,614.0,13.0,
+2002,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2003,0,Dynamic U-E-U,EWMA,Uniform to Exponential,313.0,12.0,
+2003,0,Dynamic U-E-U,EWMA,Exponential to Uniform,611.0,10.0,
+2003,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2003,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,315.0,14.0,
+2003,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,615.0,14.0,
+2003,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2004,0,Dynamic U-E-U,EWMA,Uniform to Exponential,312.0,11.0,
+2004,0,Dynamic U-E-U,EWMA,Exponential to Uniform,612.0,11.0,
+2004,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2004,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,314.0,13.0,
+2004,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,616.0,15.0,
+2004,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2005,0,Dynamic U-E-U,EWMA,Uniform to Exponential,313.0,12.0,
+2005,0,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2005,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2005,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,315.0,14.0,
+2005,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,613.0,12.0,
+2005,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2006,0,Dynamic U-E-U,EWMA,Uniform to Exponential,311.0,10.0,
+2006,0,Dynamic U-E-U,EWMA,Exponential to Uniform,610.0,9.0,
+2006,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2006,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,314.0,13.0,
+2006,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,614.0,13.0,
+2006,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2007,0,Dynamic U-E-U,EWMA,Uniform to Exponential,315.0,14.0,
+2007,0,Dynamic U-E-U,EWMA,Exponential to Uniform,611.0,10.0,
+2007,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2007,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,317.0,16.0,
+2007,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,614.0,13.0,
+2007,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2008,0,Dynamic U-E-U,EWMA,Uniform to Exponential,312.0,11.0,
+2008,0,Dynamic U-E-U,EWMA,Exponential to Uniform,614.0,13.0,
+2008,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2008,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,313.0,12.0,
+2008,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,614.0,13.0,
+2008,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2009,0,Dynamic U-E-U,EWMA,Uniform to Exponential,314.0,13.0,
+2009,0,Dynamic U-E-U,EWMA,Exponential to Uniform,612.0,11.0,
+2009,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2009,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,318.0,17.0,
+2009,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,616.0,15.0,
+2009,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2010,0,Dynamic U-E-U,EWMA,Uniform to Exponential,311.0,10.0,
+2010,0,Dynamic U-E-U,EWMA,Exponential to Uniform,611.0,10.0,
+2010,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2010,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,315.0,14.0,
+2010,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,614.0,13.0,
+2010,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2011,0,Dynamic U-E-U,EWMA,Uniform to Exponential,309.0,8.0,
+2011,0,Dynamic U-E-U,EWMA,Exponential to Uniform,613.0,12.0,
+2011,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2011,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,314.0,13.0,
+2011,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,615.0,14.0,
+2011,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2012,0,Dynamic U-E-U,EWMA,Uniform to Exponential,312.0,11.0,
+2012,0,Dynamic U-E-U,EWMA,Exponential to Uniform,611.0,10.0,
+2012,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2012,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,317.0,16.0,
+2012,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,612.0,11.0,
+2012,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2013,0,Dynamic U-E-U,EWMA,Uniform to Exponential,315.0,14.0,
+2013,0,Dynamic U-E-U,EWMA,Exponential to Uniform,610.0,9.0,
+2013,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2013,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,316.0,15.0,
+2013,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,612.0,11.0,
+2013,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2014,0,Dynamic U-E-U,EWMA,Uniform to Exponential,321.0,20.0,
+2014,0,Dynamic U-E-U,EWMA,Exponential to Uniform,612.0,11.0,
+2014,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2014,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,321.0,20.0,
+2014,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,613.0,12.0,
+2014,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2015,0,Dynamic U-E-U,EWMA,Uniform to Exponential,312.0,11.0,
+2015,0,Dynamic U-E-U,EWMA,Exponential to Uniform,614.0,13.0,
+2015,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,1.0
+2015,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,316.0,15.0,
+2015,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,616.0,15.0,
+2015,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2016,0,Dynamic U-E-U,EWMA,Uniform to Exponential,314.0,13.0,
+2016,0,Dynamic U-E-U,EWMA,Exponential to Uniform,614.0,13.0,
+2016,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2016,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,317.0,16.0,
+2016,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,616.0,15.0,
+2016,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2017,0,Dynamic U-E-U,EWMA,Uniform to Exponential,309.0,8.0,
+2017,0,Dynamic U-E-U,EWMA,Exponential to Uniform,611.0,10.0,
+2017,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2017,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,315.0,14.0,
+2017,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,614.0,13.0,
+2017,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2018,0,Dynamic U-E-U,EWMA,Uniform to Exponential,313.0,12.0,
+2018,0,Dynamic U-E-U,EWMA,Exponential to Uniform,612.0,11.0,
+2018,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2018,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,316.0,15.0,
+2018,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,617.0,16.0,
+2018,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2019,0,Dynamic U-E-U,EWMA,Uniform to Exponential,315.0,14.0,
+2019,0,Dynamic U-E-U,EWMA,Exponential to Uniform,610.0,9.0,
+2019,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2019,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,318.0,17.0,
+2019,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,614.0,13.0,
+2019,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2020,0,Dynamic U-E-U,EWMA,Uniform to Exponential,314.0,13.0,
+2020,0,Dynamic U-E-U,EWMA,Exponential to Uniform,611.0,10.0,
+2020,0,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2020,0,Dynamic U-E-U,Sliding Window,Uniform to Exponential,318.0,17.0,
+2020,0,Dynamic U-E-U,Sliding Window,Exponential to Uniform,615.0,14.0,
+2020,0,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2001,5,Dynamic U-E-U,EWMA,Uniform to Exponential,317.0,16.0,
+2001,5,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2001,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2001,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,320.0,19.0,
+2001,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,611.0,10.0,
+2001,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2002,5,Dynamic U-E-U,EWMA,Uniform to Exponential,318.0,17.0,
+2002,5,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2002,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2002,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,320.0,19.0,
+2002,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,610.0,9.0,
+2002,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2003,5,Dynamic U-E-U,EWMA,Uniform to Exponential,316.0,15.0,
+2003,5,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2003,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2003,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,320.0,19.0,
+2003,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,612.0,11.0,
+2003,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2004,5,Dynamic U-E-U,EWMA,Uniform to Exponential,318.0,17.0,
+2004,5,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2004,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2004,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,319.0,18.0,
+2004,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,612.0,11.0,
+2004,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2005,5,Dynamic U-E-U,EWMA,Uniform to Exponential,316.0,15.0,
+2005,5,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2005,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2005,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,319.0,18.0,
+2005,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2005,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2006,5,Dynamic U-E-U,EWMA,Uniform to Exponential,315.0,14.0,
+2006,5,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2006,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2006,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,317.0,16.0,
+2006,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,611.0,10.0,
+2006,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2007,5,Dynamic U-E-U,EWMA,Uniform to Exponential,316.0,15.0,
+2007,5,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2007,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2007,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,319.0,18.0,
+2007,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,612.0,11.0,
+2007,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2008,5,Dynamic U-E-U,EWMA,Uniform to Exponential,315.0,14.0,
+2008,5,Dynamic U-E-U,EWMA,Exponential to Uniform,612.0,11.0,
+2008,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2008,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,317.0,16.0,
+2008,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,614.0,13.0,
+2008,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2009,5,Dynamic U-E-U,EWMA,Uniform to Exponential,317.0,16.0,
+2009,5,Dynamic U-E-U,EWMA,Exponential to Uniform,611.0,10.0,
+2009,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2009,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,319.0,18.0,
+2009,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,612.0,11.0,
+2009,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2010,5,Dynamic U-E-U,EWMA,Uniform to Exponential,316.0,15.0,
+2010,5,Dynamic U-E-U,EWMA,Exponential to Uniform,610.0,9.0,
+2010,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2010,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,318.0,17.0,
+2010,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,612.0,11.0,
+2010,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2011,5,Dynamic U-E-U,EWMA,Uniform to Exponential,313.0,12.0,
+2011,5,Dynamic U-E-U,EWMA,Exponential to Uniform,610.0,9.0,
+2011,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2011,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,316.0,15.0,
+2011,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,613.0,12.0,
+2011,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2012,5,Dynamic U-E-U,EWMA,Uniform to Exponential,317.0,16.0,
+2012,5,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2012,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2012,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,319.0,18.0,
+2012,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,611.0,10.0,
+2012,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2013,5,Dynamic U-E-U,EWMA,Uniform to Exponential,315.0,14.0,
+2013,5,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2013,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2013,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,319.0,18.0,
+2013,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,610.0,9.0,
+2013,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2014,5,Dynamic U-E-U,EWMA,Uniform to Exponential,321.0,20.0,
+2014,5,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2014,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2014,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,321.0,20.0,
+2014,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,611.0,10.0,
+2014,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2015,5,Dynamic U-E-U,EWMA,Uniform to Exponential,317.0,16.0,
+2015,5,Dynamic U-E-U,EWMA,Exponential to Uniform,612.0,11.0,
+2015,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2015,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,319.0,18.0,
+2015,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,613.0,12.0,
+2015,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2016,5,Dynamic U-E-U,EWMA,Uniform to Exponential,317.0,16.0,
+2016,5,Dynamic U-E-U,EWMA,Exponential to Uniform,611.0,10.0,
+2016,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2016,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,319.0,18.0,
+2016,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,613.0,12.0,
+2016,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2017,5,Dynamic U-E-U,EWMA,Uniform to Exponential,314.0,13.0,
+2017,5,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2017,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2017,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,317.0,16.0,
+2017,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,611.0,10.0,
+2017,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2018,5,Dynamic U-E-U,EWMA,Uniform to Exponential,317.0,16.0,
+2018,5,Dynamic U-E-U,EWMA,Exponential to Uniform,610.0,9.0,
+2018,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2018,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,319.0,18.0,
+2018,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,613.0,12.0,
+2018,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2019,5,Dynamic U-E-U,EWMA,Uniform to Exponential,318.0,17.0,
+2019,5,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2019,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2019,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,319.0,18.0,
+2019,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,610.0,9.0,
+2019,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2020,5,Dynamic U-E-U,EWMA,Uniform to Exponential,318.0,17.0,
+2020,5,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2020,5,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2020,5,Dynamic U-E-U,Sliding Window,Uniform to Exponential,320.0,19.0,
+2020,5,Dynamic U-E-U,Sliding Window,Exponential to Uniform,611.0,10.0,
+2020,5,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2001,10,Dynamic U-E-U,EWMA,Uniform to Exponential,322.0,21.0,
+2001,10,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2001,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2001,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,322.0,21.0,
+2001,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2001,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2002,10,Dynamic U-E-U,EWMA,Uniform to Exponential,324.0,23.0,
+2002,10,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2002,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2002,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2002,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2002,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2003,10,Dynamic U-E-U,EWMA,Uniform to Exponential,321.0,20.0,
+2003,10,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2003,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2003,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,322.0,21.0,
+2003,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,610.0,9.0,
+2003,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2004,10,Dynamic U-E-U,EWMA,Uniform to Exponential,322.0,21.0,
+2004,10,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2004,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2004,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,321.0,20.0,
+2004,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2004,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2005,10,Dynamic U-E-U,EWMA,Uniform to Exponential,322.0,21.0,
+2005,10,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2005,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2005,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2005,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2005,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2006,10,Dynamic U-E-U,EWMA,Uniform to Exponential,319.0,18.0,
+2006,10,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2006,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2006,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,320.0,19.0,
+2006,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2006,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2007,10,Dynamic U-E-U,EWMA,Uniform to Exponential,321.0,20.0,
+2007,10,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2007,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2007,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,321.0,20.0,
+2007,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2007,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2008,10,Dynamic U-E-U,EWMA,Uniform to Exponential,319.0,18.0,
+2008,10,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2008,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2008,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,322.0,21.0,
+2008,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,611.0,10.0,
+2008,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2009,10,Dynamic U-E-U,EWMA,Uniform to Exponential,320.0,19.0,
+2009,10,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2009,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2009,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,322.0,21.0,
+2009,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,611.0,10.0,
+2009,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2010,10,Dynamic U-E-U,EWMA,Uniform to Exponential,320.0,19.0,
+2010,10,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2010,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2010,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,320.0,19.0,
+2010,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,610.0,9.0,
+2010,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2011,10,Dynamic U-E-U,EWMA,Uniform to Exponential,319.0,18.0,
+2011,10,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2011,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2011,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,320.0,19.0,
+2011,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,610.0,9.0,
+2011,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2012,10,Dynamic U-E-U,EWMA,Uniform to Exponential,323.0,22.0,
+2012,10,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2012,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2012,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2012,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,611.0,10.0,
+2012,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2013,10,Dynamic U-E-U,EWMA,Uniform to Exponential,320.0,19.0,
+2013,10,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2013,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2013,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,321.0,20.0,
+2013,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2013,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2014,10,Dynamic U-E-U,EWMA,Uniform to Exponential,324.0,23.0,
+2014,10,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2014,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2014,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,322.0,21.0,
+2014,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2014,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2015,10,Dynamic U-E-U,EWMA,Uniform to Exponential,322.0,21.0,
+2015,10,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2015,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2015,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,321.0,20.0,
+2015,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,611.0,10.0,
+2015,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2016,10,Dynamic U-E-U,EWMA,Uniform to Exponential,321.0,20.0,
+2016,10,Dynamic U-E-U,EWMA,Exponential to Uniform,609.0,8.0,
+2016,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2016,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2016,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,611.0,10.0,
+2016,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2017,10,Dynamic U-E-U,EWMA,Uniform to Exponential,319.0,18.0,
+2017,10,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2017,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2017,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,321.0,20.0,
+2017,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2017,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2018,10,Dynamic U-E-U,EWMA,Uniform to Exponential,321.0,20.0,
+2018,10,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2018,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2018,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2018,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,610.0,9.0,
+2018,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2019,10,Dynamic U-E-U,EWMA,Uniform to Exponential,321.0,20.0,
+2019,10,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2019,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2019,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,322.0,21.0,
+2019,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2019,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2020,10,Dynamic U-E-U,EWMA,Uniform to Exponential,323.0,22.0,
+2020,10,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2020,10,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2020,10,Dynamic U-E-U,Sliding Window,Uniform to Exponential,322.0,21.0,
+2020,10,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2020,10,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2001,15,Dynamic U-E-U,EWMA,Uniform to Exponential,327.0,26.0,
+2001,15,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2001,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2001,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2001,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2001,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2002,15,Dynamic U-E-U,EWMA,Uniform to Exponential,330.0,29.0,
+2002,15,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2002,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2002,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2002,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2002,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2003,15,Dynamic U-E-U,EWMA,Uniform to Exponential,326.0,25.0,
+2003,15,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2003,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2003,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2003,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2003,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2004,15,Dynamic U-E-U,EWMA,Uniform to Exponential,327.0,26.0,
+2004,15,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2004,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2004,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2004,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2004,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2005,15,Dynamic U-E-U,EWMA,Uniform to Exponential,327.0,26.0,
+2005,15,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2005,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2005,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,325.0,24.0,
+2005,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2005,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2006,15,Dynamic U-E-U,EWMA,Uniform to Exponential,325.0,24.0,
+2006,15,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2006,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2006,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,322.0,21.0,
+2006,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2006,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2007,15,Dynamic U-E-U,EWMA,Uniform to Exponential,325.0,24.0,
+2007,15,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2007,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2007,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,322.0,21.0,
+2007,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2007,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2008,15,Dynamic U-E-U,EWMA,Uniform to Exponential,325.0,24.0,
+2008,15,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2008,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2008,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2008,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2008,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2009,15,Dynamic U-E-U,EWMA,Uniform to Exponential,325.0,24.0,
+2009,15,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2009,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2009,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2009,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2009,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2010,15,Dynamic U-E-U,EWMA,Uniform to Exponential,325.0,24.0,
+2010,15,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2010,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2010,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2010,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2010,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2011,15,Dynamic U-E-U,EWMA,Uniform to Exponential,323.0,22.0,
+2011,15,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2011,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2011,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,322.0,21.0,
+2011,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2011,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2012,15,Dynamic U-E-U,EWMA,Uniform to Exponential,327.0,26.0,
+2012,15,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2012,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2012,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2012,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2012,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2013,15,Dynamic U-E-U,EWMA,Uniform to Exponential,325.0,24.0,
+2013,15,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2013,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2013,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2013,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2013,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2014,15,Dynamic U-E-U,EWMA,Uniform to Exponential,328.0,27.0,
+2014,15,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2014,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2014,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2014,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2014,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2015,15,Dynamic U-E-U,EWMA,Uniform to Exponential,327.0,26.0,
+2015,15,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2015,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2015,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,322.0,21.0,
+2015,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2015,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2016,15,Dynamic U-E-U,EWMA,Uniform to Exponential,327.0,26.0,
+2016,15,Dynamic U-E-U,EWMA,Exponential to Uniform,608.0,7.0,
+2016,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2016,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,325.0,24.0,
+2016,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,610.0,9.0,
+2016,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2017,15,Dynamic U-E-U,EWMA,Uniform to Exponential,326.0,25.0,
+2017,15,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2017,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2017,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2017,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2017,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2018,15,Dynamic U-E-U,EWMA,Uniform to Exponential,327.0,26.0,
+2018,15,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2018,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2018,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2018,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2018,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2019,15,Dynamic U-E-U,EWMA,Uniform to Exponential,326.0,25.0,
+2019,15,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2019,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2019,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2019,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,606.0,5.0,
+2019,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2020,15,Dynamic U-E-U,EWMA,Uniform to Exponential,329.0,28.0,
+2020,15,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2020,15,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2020,15,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2020,15,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2020,15,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2001,20,Dynamic U-E-U,EWMA,Uniform to Exponential,332.0,31.0,
+2001,20,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2001,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2001,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2001,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2001,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2002,20,Dynamic U-E-U,EWMA,Uniform to Exponential,333.0,32.0,
+2002,20,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2002,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2002,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2002,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,606.0,5.0,
+2002,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2003,20,Dynamic U-E-U,EWMA,Uniform to Exponential,330.0,29.0,
+2003,20,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2003,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2003,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2003,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2003,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2004,20,Dynamic U-E-U,EWMA,Uniform to Exponential,331.0,30.0,
+2004,20,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2004,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2004,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2004,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2004,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2005,20,Dynamic U-E-U,EWMA,Uniform to Exponential,332.0,31.0,
+2005,20,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2005,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2005,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,325.0,24.0,
+2005,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,606.0,5.0,
+2005,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2006,20,Dynamic U-E-U,EWMA,Uniform to Exponential,329.0,28.0,
+2006,20,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2006,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2006,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2006,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2006,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2007,20,Dynamic U-E-U,EWMA,Uniform to Exponential,329.0,28.0,
+2007,20,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2007,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2007,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2007,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2007,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2008,20,Dynamic U-E-U,EWMA,Uniform to Exponential,329.0,28.0,
+2008,20,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2008,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2008,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2008,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2008,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2009,20,Dynamic U-E-U,EWMA,Uniform to Exponential,329.0,28.0,
+2009,20,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2009,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2009,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2009,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2009,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2010,20,Dynamic U-E-U,EWMA,Uniform to Exponential,328.0,27.0,
+2010,20,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2010,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2010,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2010,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2010,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2011,20,Dynamic U-E-U,EWMA,Uniform to Exponential,328.0,27.0,
+2011,20,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2011,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2011,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2011,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2011,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2012,20,Dynamic U-E-U,EWMA,Uniform to Exponential,332.0,31.0,
+2012,20,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2012,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2012,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2012,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2012,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2013,20,Dynamic U-E-U,EWMA,Uniform to Exponential,330.0,29.0,
+2013,20,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2013,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2013,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2013,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2013,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2014,20,Dynamic U-E-U,EWMA,Uniform to Exponential,331.0,30.0,
+2014,20,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2014,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2014,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2014,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2014,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2015,20,Dynamic U-E-U,EWMA,Uniform to Exponential,330.0,29.0,
+2015,20,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2015,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2015,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,323.0,22.0,
+2015,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,606.0,5.0,
+2015,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2016,20,Dynamic U-E-U,EWMA,Uniform to Exponential,330.0,29.0,
+2016,20,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2016,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2016,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,325.0,24.0,
+2016,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,609.0,8.0,
+2016,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2017,20,Dynamic U-E-U,EWMA,Uniform to Exponential,331.0,30.0,
+2017,20,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2017,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2017,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2017,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,607.0,6.0,
+2017,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2018,20,Dynamic U-E-U,EWMA,Uniform to Exponential,331.0,30.0,
+2018,20,Dynamic U-E-U,EWMA,Exponential to Uniform,607.0,6.0,
+2018,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2018,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2018,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,608.0,7.0,
+2018,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2019,20,Dynamic U-E-U,EWMA,Uniform to Exponential,330.0,29.0,
+2019,20,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2019,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2019,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2019,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,606.0,5.0,
+2019,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0
+2020,20,Dynamic U-E-U,EWMA,Uniform to Exponential,334.0,33.0,
+2020,20,Dynamic U-E-U,EWMA,Exponential to Uniform,606.0,5.0,
+2020,20,Dynamic U-E-U,EWMA,Total Incorrect Switches,,,0.0
+2020,20,Dynamic U-E-U,Sliding Window,Uniform to Exponential,324.0,23.0,
+2020,20,Dynamic U-E-U,Sliding Window,Exponential to Uniform,606.0,5.0,
+2020,20,Dynamic U-E-U,Sliding Window,Total Incorrect Switches,,,0.0

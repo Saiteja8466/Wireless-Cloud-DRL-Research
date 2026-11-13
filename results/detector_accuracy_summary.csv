@@ -1,0 +1,51 @@
+Scenario,SNR (dB),Phase,Method,Mean_Accuracy,Std_Accuracy
+Dynamic E-U-E,0,Phase 1,EWMA Selection Accuracy,1.0,0.0
+Dynamic E-U-E,0,Phase 1,Sliding Window Selection Accuracy,1.0,0.0
+Dynamic E-U-E,0,Phase 2,EWMA Selection Accuracy,0.9626666666666667,0.007768582701689058
+Dynamic E-U-E,0,Phase 2,Sliding Window Selection Accuracy,0.9538333333333334,0.0069480107801564075
+Dynamic E-U-E,0,Phase 3,EWMA Selection Accuracy,0.9695,0.00582643702626679
+Dynamic E-U-E,0,Phase 3,Sliding Window Selection Accuracy,0.961,0.004245740899945917
+Dynamic E-U-E,5,Phase 1,EWMA Selection Accuracy,1.0,0.0
+Dynamic E-U-E,5,Phase 1,Sliding Window Selection Accuracy,1.0,0.0
+Dynamic E-U-E,5,Phase 2,EWMA Selection Accuracy,0.9711666666666666,0.0036314094375220402
+Dynamic E-U-E,5,Phase 2,Sliding Window Selection Accuracy,0.9630000000000001,0.004445906192369001
+Dynamic E-U-E,5,Phase 3,EWMA Selection Accuracy,0.9602499999999999,0.003881467438184197
+Dynamic E-U-E,5,Phase 3,Sliding Window Selection Accuracy,0.953625,0.002625156636930628
+Dynamic E-U-E,10,Phase 1,EWMA Selection Accuracy,1.0,0.0
+Dynamic E-U-E,10,Phase 1,Sliding Window Selection Accuracy,1.0,0.0
+Dynamic E-U-E,10,Phase 2,EWMA Selection Accuracy,0.9773333333333334,0.002778362511554885
+Dynamic E-U-E,10,Phase 2,Sliding Window Selection Accuracy,0.9706666666666667,0.0035210312152426917
+Dynamic E-U-E,10,Phase 3,EWMA Selection Accuracy,0.94725,0.0026778821168190114
+Dynamic E-U-E,10,Phase 3,Sliding Window Selection Accuracy,0.947875,0.0021877349497885184
+Dynamic E-U-E,15,Phase 1,EWMA Selection Accuracy,1.0,0.0
+Dynamic E-U-E,15,Phase 1,Sliding Window Selection Accuracy,1.0,0.0
+Dynamic E-U-E,15,Phase 2,EWMA Selection Accuracy,0.9806666666666667,0.002319507913128191
+Dynamic E-U-E,15,Phase 2,Sliding Window Selection Accuracy,0.9763333333333334,0.002626896418841307
+Dynamic E-U-E,15,Phase 3,EWMA Selection Accuracy,0.9349999999999999,0.002433321316961428
+Dynamic E-U-E,15,Phase 3,Sliding Window Selection Accuracy,0.9446249999999999,0.0016770509831248348
+Dynamic E-U-E,20,Phase 1,EWMA Selection Accuracy,1.0,0.0
+Dynamic E-U-E,20,Phase 1,Sliding Window Selection Accuracy,1.0,0.0
+Dynamic E-U-E,20,Phase 2,EWMA Selection Accuracy,0.9811666666666665,0.0022360679774997747
+Dynamic E-U-E,20,Phase 2,Sliding Window Selection Accuracy,0.9795,0.002709092336290784
+Dynamic E-U-E,20,Phase 3,EWMA Selection Accuracy,0.9252499999999999,0.003334429644276779
+Dynamic E-U-E,20,Phase 3,Sliding Window Selection Accuracy,0.942375,0.0017158318528831776
+Stationary Exponential,0,Stationary,EWMA Selection Accuracy,1.0,0.0
+Stationary Exponential,0,Stationary,Sliding Window Selection Accuracy,1.0,0.0
+Stationary Exponential,5,Stationary,EWMA Selection Accuracy,1.0,0.0
+Stationary Exponential,5,Stationary,Sliding Window Selection Accuracy,1.0,0.0
+Stationary Exponential,10,Stationary,EWMA Selection Accuracy,1.0,0.0
+Stationary Exponential,10,Stationary,Sliding Window Selection Accuracy,1.0,0.0
+Stationary Exponential,15,Stationary,EWMA Selection Accuracy,1.0,0.0
+Stationary Exponential,15,Stationary,Sliding Window Selection Accuracy,1.0,0.0
+Stationary Exponential,20,Stationary,EWMA Selection Accuracy,1.0,0.0
+Stationary Exponential,20,Stationary,Sliding Window Selection Accuracy,1.0,0.0
+Stationary Uniform,0,Stationary,EWMA Selection Accuracy,1.0,0.0
+Stationary Uniform,0,Stationary,Sliding Window Selection Accuracy,1.0,0.0
+Stationary Uniform,5,Stationary,EWMA Selection Accuracy,1.0,0.0
+Stationary Uniform,5,Stationary,Sliding Window Selection Accuracy,1.0,0.0
+Stationary Uniform,10,Stationary,EWMA Selection Accuracy,1.0,0.0
+Stationary Uniform,10,Stationary,Sliding Window Selection Accuracy,1.0,0.0
+Stationary Uniform,15,Stationary,EWMA Selection Accuracy,1.0,0.0
+Stationary Uniform,15,Stationary,Sliding Window Selection Accuracy,1.0,0.0
+Stationary Uniform,20,Stationary,EWMA Selection Accuracy,1.0,0.0
+Stationary Uniform,20,Stationary,Sliding Window Selection Accuracy,1.0,0.0

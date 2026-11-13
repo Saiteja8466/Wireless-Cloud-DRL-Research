@@ -1,0 +1,21 @@
+SNR (dB),Detector,Event,Mean_Delay,Detection_Rate
+0,EWMA,Exponential to Uniform,10.95,1.0
+0,EWMA,Uniform to Exponential,12.2,1.0
+0,Sliding Window,Exponential to Uniform,13.85,1.0
+0,Sliding Window,Uniform to Exponential,15.6,1.0
+5,EWMA,Exponential to Uniform,8.65,1.0
+5,EWMA,Uniform to Exponential,15.9,1.0
+5,Sliding Window,Exponential to Uniform,11.1,1.0
+5,Sliding Window,Uniform to Exponential,18.55,1.0
+10,EWMA,Exponential to Uniform,6.8,1.0
+10,EWMA,Uniform to Exponential,21.1,1.0
+10,Sliding Window,Exponential to Uniform,8.8,1.0
+10,Sliding Window,Uniform to Exponential,20.85,1.0
+15,EWMA,Exponential to Uniform,5.8,1.0
+15,EWMA,Uniform to Exponential,26.0,1.0
+15,Sliding Window,Exponential to Uniform,7.1,1.0
+15,Sliding Window,Uniform to Exponential,22.15,1.0
+20,EWMA,Exponential to Uniform,5.65,1.0
+20,EWMA,Uniform to Exponential,29.9,1.0
+20,Sliding Window,Exponential to Uniform,6.15,1.0
+20,Sliding Window,Uniform to Exponential,23.05,1.0

@@ -1,0 +1,40 @@
+﻿# Python environments
+.venv/
+.venv-ppo/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Credentials and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+IEEE_Paper_Results.zip
+
+# Keep only the final V3 PPO model
+models/*
+!models/v3/
+models/v3/*
+!models/v3/wireless_cloud_ppo_final.zip
+
+# Exclude large intermediate experiment files
+results/blind_generalization_history.csv
+results/detector_robustness_history.csv
+results/v3/v3_phy_statistical_validation_frames.csv
+
+
+# Ignore local training logs
+training_logs/
